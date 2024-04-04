@@ -1,0 +1,17 @@
+{
+    "name": "@pokefred29/svelte-auth",
+    "description": "",
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {},
+    "homepage": "https://github.com/PokeFred/svelte-auth#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PokeFred/svelte-auth.git"
+    },
+    "bugs": {
+        "url": "https://github.com/PokeFred/svelte-auth/issues"
+    },
+    "author": "pokefred29",
+    "license": "ISC"
+}
