@@ -1,0 +1,13 @@
+{
+    "include": ["src/**/*.ts"],
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "outDir": "./build",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "strict": true
+    },
+    "exclude": ["node_modules/**"]
+}
